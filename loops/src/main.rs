@@ -30,4 +30,8 @@ fn main() {
     }
 
     println!("Launch!");
+
+    let mut s = String::new();
+    s.push_str("def");
+
 }
